@@ -8,3 +8,5 @@ the ability to choose appropriate algorithms, preprocess data, and evaluate mode
 performance. 
 
 Seed value for me, Moustapha Rachid, was 107
+
+Lancer le fichier jupyter avec le dataset.
