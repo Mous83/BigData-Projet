@@ -7,6 +7,6 @@ of network activities as several types (multi-class classification). This projec
 the ability to choose appropriate algorithms, preprocess data, and evaluate model
 performance. 
 
-Seed value for me, Moustapha Rachid, was 107
+Seed value for me, Moustapha Rachid, was 107.
 
 Lancer le fichier jupyter avec le dataset.
